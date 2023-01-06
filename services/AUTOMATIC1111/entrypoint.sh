@@ -34,6 +34,8 @@ MOUNTS["${ROOT}/models/torch_deepdanbooru"]="/data/Deepdanbooru"
 MOUNTS["${ROOT}/models/BLIP"]="/data/BLIP"
 MOUNTS["${ROOT}/models/midas"]="/data/MiDaS"
 
+MOUNTS["${ROOT}/textual_inversion"]="/data/textual_inversion"
+
 MOUNTS["${ROOT}/embeddings"]="/data/embeddings"
 MOUNTS["${ROOT}/config.json"]="/data/config/auto/config.json"
 MOUNTS["${ROOT}/ui-config.json"]="/data/config/auto/ui-config.json"
